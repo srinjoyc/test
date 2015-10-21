@@ -1,0 +1,30 @@
+---
+#comment
+title: "sample"
+author: "Srinjoy"
+date: "October 21,2015"
+output: html_document
+
+       
+---
+
+
+#AQM 
+
+*italic* The contents of this repository are developed at AQM at UBC. *italic* 
+
+We will be constructing code in R to display things like this: 
+
+
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Will update after midterm tommorrow. 
